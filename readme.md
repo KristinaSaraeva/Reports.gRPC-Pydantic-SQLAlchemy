@@ -63,7 +63,7 @@ Distance in astronomical units (AU)"
 ≈ 1.58125074098×10−5 light-years  
 ≈ 4.84813681113×10−6 parsecs  
   
-  ![pic](../ex00/img/470px-Earths_orbit_and_ecliptic.png)
+  ![pic](img/470px-Earths_orbit_and_ecliptic.png)
 
 ## Author
 
