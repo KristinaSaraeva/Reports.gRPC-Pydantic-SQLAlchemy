@@ -53,23 +53,18 @@ If you you encounter the same officers both on _enemy_ and _ally_ ships they are
 
 ### _The geocentric ecliptic coordinate system is used_
 
-Longitude: +90 (north ecliptic pole) -90 (south ecliptic pole)
-Latitude: 0-360 (from the vernal equinox point)
+Longitude: +90 (north ecliptic pole) -90 (south ecliptic pole)  
+Latitude: 0-360 (from the vernal equinox point)  
 Distance in astronomical units (AU)"
 
-1 astronomical unit 	= 149597870700 metres (by definition)
-
-= 149597870.7 kilometres (exactly)
-
-≈ 92955807.2730 miles
-
-≈ 499.004783836 light-seconds
-
-≈ 1.58125074098×10−5 light-years
-
-≈ 4.84813681113×10−6 parsecs
-
-![pic](../ex00/img/470px-Earths_orbit_and_ecliptic.png)
+1 astronomical unit = 149597870700 metres (by definition)  
+= 149597870.7 kilometres (exactly)  
+≈ 92955807.2730 miles  
+≈ 499.004783836 light-seconds  
+≈ 1.58125074098×10−5 light-years  
+≈ 4.84813681113×10−6 parsecs  
+  
+  ![pic](../ex00/img/470px-Earths_orbit_and_ecliptic.png)
 
 ## Author
 
