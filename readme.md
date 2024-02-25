@@ -41,12 +41,11 @@ If you you encounter the same officers both on _enemy_ and _ally_ ships they are
  `pip3 install --no-cache-dir -r requirements.txt`  
 4. Then run `make proto` to compile python modules from the proto file.
 5. Turn on the database.
-6. Being in one terminak run `make server`.
+6. Being in one terminal run `make server`.
 7. Open another terminal window.
  Run `./report.py scan 'longitude' 'latitude' 'distance'` (actually can be any random numbers, see the section below) to see the list of Spaceships in that area.
  Run `./report.py traitors` to get the list of traitors.
- Actually, the chance to randomly create identical 'twins' on different ships is really tiny.  
- So I have made a hardcode function that creates five traitors. Run `./report.py create_traitors` and then check for them.
+ The chance to randomly create identical 'twins' on different ships is really tiny. So I have made a hardcode function that creates five traitors. Run `./report.py create_traitors` and then check for them.
 
 
 
