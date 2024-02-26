@@ -1,4 +1,4 @@
-# TRAITORS
+# REPORTS
 
 A Python project which has gRPC is a client-server communication framework. The server provides a response-streaming
 endpoint, where it receives a set of coordinates(see below), and responds with a stream of Spaceships.
